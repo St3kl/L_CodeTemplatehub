@@ -1,1 +1,5 @@
-www.lcodetemplate.com
+Type: CNAMEHost/
+Name: www
+Value/Target: lcodetemplate.github.io
+
+
